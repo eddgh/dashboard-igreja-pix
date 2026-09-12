@@ -7,3 +7,5 @@ Stack:
 - Segurança & Criptografia: Biblioteca crypto (nativa do Node.js).
 - Ferramenta de Túnel local: Ngrok.
 - Testes manuais & Inspeção: Postman (ou Thunder Client no VS Code).
+- Instale antes: npm install express body-parser
+- ngrok http 3000
